@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.top {
+  background-color: hotpink;
+  height: 100vh;
+}
+
+.bottom {
+  background-color: teal;
+  height: 100vh;
+}
